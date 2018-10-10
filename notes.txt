@@ -1,0 +1,25 @@
+Samples:
+https://www.yllkag.com/
+https://www.anaroshellediaz.com/bio
+
+Sections:
+Home 
+Resume 
+Reel
+Gallery 
+
+
+Should start with photo on left, bio on right ala:
+https://www.anaroshellediaz.com/bio
+
+Colors:
+green, maroon
+
+Instagram: https://www.instagram.com/treestarsworld/
+Twitter: https://twitter.com/treestarsworld
+Youtube: https://www.youtube.com/channel/UCHFDCLe9C7yPWWXktCsrHjw
+Imdb: https://www.imdb.com/name/nm3526747/
+
+need to make site smartphone friendly 
+
+NEED TO MAKE 3 COLUMN GALLERY, FIND WAY TO REMOVE TOP LINKS WHEN IMAGE IS CLICKED ON
